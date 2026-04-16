@@ -1,84 +1,120 @@
-# 👋 Hi, I’m Bushra Khan
+# Hi, I'm Bushra Khan 👋
 
-📍 Auckland, New Zealand  
-📊 Data Analyst | AI‑Powered Analytics | Business Insights
+### 📊 Data Analyst | SQL • Python • Power BI • AI-Driven Insights
 
-***
+📍 Auckland, New Zealand
+🔗 [LinkedIn](https://www.linkedin.com/in/bushra-khan-b355431a5)
+📄 [Download My CV](./Bushra_Khan_Data_Analyst_CV.pdf)
+
+---
 
 ## 🚀 About Me
 
-I’m a **Data Analyst** with hands-on experience transforming raw data into **clear, actionable insights** that support business decision-making. I work across the full analytics lifecycle—data cleaning, exploration, analysis, visualization, and reporting—using modern tools and AI-assisted workflows.
+I’m a **Data Analyst** with hands-on experience in **SQL, Python, Excel, and Power BI**, and a Diploma in Data Analytics (AI-Powered) in New Zealand.
 
-I bring a unique blend of **technical analytics skills and professional experience in data‑intensive legal services**, which has shaped my strong attention to detail, data quality mindset, and ability to communicate insights to diverse stakeholders.
+I specialise in turning raw data into **actionable business insights**, building dashboards, and applying **machine learning models** to solve real-world problems.
 
-***
+I also use **AI tools (ChatGPT, Copilot, Gemini)** to accelerate analysis, automate reporting, and improve productivity.
 
-## 🛠️ Technical Skills
+With a background in **legal data services**, I bring strong **attention to detail, structured problem-solving, and stakeholder communication**—skills that translate directly into high-quality data work.
 
-**Data & Analytics**
+---
 
-*   SQL
-*   Python (Pandas, PySpark)
-*   Excel (Power Query, Pivot Tables)
-*   Power BI
+## 🛠️ Tech Stack
 
-**Analytics Techniques**
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-*   Data Cleaning & Preparation
-*   Exploratory Data Analysis (EDA)
-*   KPI & Performance Analysis
-*   Time Series Forecasting
-*   Predictive Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-**Platforms & Tools**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
-*   Microsoft Fabric
-*   Databricks
-*   Azure SQL
-*   AI‑assisted analysis tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 
-**Reporting & Communication**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
-*   Executive dashboards
-*   Business‑ready reports
-*   Data storytelling & visualization best practices
+---
 
-***
+## 📂 Featured Projects
 
-## 📂 Projects
+### 🔹 Gaming Analytics (SQL)
 
-This GitHub showcases:
+✔ Analysed sales, reviews, and engagement data
 
-*   📊 **Power BI dashboards** for KPI tracking and performance insights
-*   🐍 **Python notebooks** for data cleaning, EDA, and analysis
-*   🗄️ **SQL queries** for relational and cloud-based data analysis
-*   ⚙️ **End‑to‑end analytics workflows**, including AI‑assisted insights
+✔ Used joins, aggregations, and window functions
 
-***
+✔ Delivered insights on revenue trends and customer behaviour
 
-## 💼 Professional Background
 
-Previously worked at **Pangea3 (a Thomson Reuters division)** as an Assistant Manager in Legal Data Services, delivering high‑accuracy, compliance‑driven data projects for international clients. This experience strengthened my skills in structured data, validation, quality audits, and stakeholder communication.
+### 🔹 E-commerce Sales Dashboard (Power BI)
 
-***
+✔ Built interactive dashboards connected to Azure SQL
 
-## 🎓 Education
+✔ Developed KPI tracking and time intelligence measures
 
-*   **Diploma in Data Analytics (AI‑Powered)** – New Zealand, 2026
-*   **Bachelor of Laws (LLB)** – University of Mumbai
-*   **Bachelor of Commerce (B.Com)** – University of Mumbai
+✔ Enabled faster, data-driven decision-making
 
-***
 
-## 🌱 Interests
+### 🔹 Retail Sales EDA (Python)
 
-Applied AI in analytics • Data visualization • Business intelligence • Continuous learning
+✔ Cleaned and transformed raw datasets
 
-***
+✔ Performed exploratory data analysis using Pandas
 
-📫 **Let’s connect**
+✔ Identified trends, outliers, and business insights
 
-*   LinkedIn: [www.linkedin.com/in/bushra-khan-b355431a5](http://www.linkedin.com/in/bushra-khan-b355431a5)
-*   Email: <bushrakhan8@gmail.com>
 
-***
+### 🔹 House Price Prediction (ML)
+
+✔ Built regression models for price prediction
+
+✔ Achieved RMSE of ~$64K
+
+✔ Compared model performance for accuracy
+
+
+### 🔹 Loan Default Prediction (ML)
+
+✔ Developed classification models (Logistic, Random Forest, Gradient Boosting)
+
+✔ Evaluated models using accuracy & confusion matrix
+
+✔ Generated risk insights for decision-making
+
+---
+
+## 💼 Experience
+
+**Data Analyst – AI-Powered Programme (NZ)**
+
+* End-to-end analytics: SQL, Python, Power BI, Machine Learning
+* Built dashboards, predictive models, and automated reports
+
+**Assistant Manager – Legal Data Services (Thomson Reuters)**
+
+* Delivered high-accuracy (98%+) data-driven projects
+* Built structured datasets, reports, and QA frameworks
+
+---
+
+## 📈 Currently Building
+
+* End-to-end portfolio projects (SQL → Python → Power BI)
+* Machine Learning & Forecasting models
+* Cloud-based analytics using Microsoft Fabric
+
+---
+
+## 🎯 Career Goal
+
+Seeking an **entry-level Data Analyst role in New Zealand** where I can apply data skills to solve business problems and drive decision-making.
+
+---
+
+## 🤝 Let’s Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/bushra-khan-b355431a5)
+📄 [View My CV](./Bushra_Khan_Data_Analyst_CV.pdf)
+
+---
+
+⭐ *Explore my repositories to see real-world data projects and analysis work*
