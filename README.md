@@ -4,7 +4,7 @@
 
 📍 Auckland, New Zealand
 🔗 [LinkedIn](https://www.linkedin.com/in/bushra-khan-b355431a5)
-📄 [Download My CV](./Bushra_Khan_Data_Analyst_CV.pdf)
+📄 [Download My CV](./Bushra_Khan_CV.pdf)
 
 ---
 
@@ -113,7 +113,7 @@ Seeking an **entry-level Data Analyst role in New Zealand** where I can apply da
 ## 🤝 Let’s Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/bushra-khan-b355431a5)
-📄 [View My CV](./Bushra_Khan_Data_Analyst_CV.pdf)
+📄 [View My CV](./Bushra_Khan_CV.pdf)
 
 ---
 
